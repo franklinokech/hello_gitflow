@@ -1,6 +1,7 @@
-def next_big_thing(a, b):
-    my_sum = a + b
-    return my_sum
+def my_list():
+    my_local_list = list([2, 4, 5])
+
+    print(my_local_list[1])
 
 
-print(next_big_thing(10, 3))
+my_list()
