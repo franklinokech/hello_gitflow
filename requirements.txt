@@ -20,7 +20,7 @@ pygeoip==0.3.2
 pylint==2.4.0
 pyparsing==2.4.6
 pyPdf==1.13
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pytest==5.3.4
 requests==2.22.0
 scipy==1.4.1
